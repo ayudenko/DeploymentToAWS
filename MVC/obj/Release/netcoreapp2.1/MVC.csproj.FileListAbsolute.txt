@@ -1,0 +1,13 @@
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\bin\Release\netcoreapp2.1\MVC.deps.json
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\bin\Release\netcoreapp2.1\MVC.runtimeconfig.json
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\bin\Release\netcoreapp2.1\MVC.runtimeconfig.dev.json
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\bin\Release\netcoreapp2.1\MVC.dll
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\bin\Release\netcoreapp2.1\MVC.pdb
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\obj\Release\netcoreapp2.1\MVC.csprojAssemblyReference.cache
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\obj\Release\netcoreapp2.1\MVC.RazorAssemblyInfo.cache
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\obj\Release\netcoreapp2.1\MVC.RazorAssemblyInfo.cs
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\obj\Release\netcoreapp2.1\MVC.AssemblyInfoInputs.cache
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\obj\Release\netcoreapp2.1\MVC.AssemblyInfo.cs
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\obj\Release\netcoreapp2.1\MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\obj\Release\netcoreapp2.1\MVC.dll
+C:\Users\Компьютер\RiderProjects\DeploymentToAWS\MVC\obj\Release\netcoreapp2.1\MVC.pdb
